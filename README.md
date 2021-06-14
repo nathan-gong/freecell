@@ -2,7 +2,7 @@
 
 CS3500 Object-Oriented Design. _Northeastern University Summer 1 2021_
 
-A text-based variant of the FreeCell solitaire card game. This project was designed using the Model-View-Controller paradigm. A player may enter commands _(C1 6 C8)_ to move cards across piles. Multiple levels of complexity of the game are offered.
+A text-based variant of the FreeCell solitaire card game. This project was designed using the Model-View-Controller paradigm. The player may enter commands _(C1 6 C8)_ to move cards across piles. Multiple levels of complexity of the game are offered.
 
 F1: A♦  
 F2: A♠, 2♠, 3♠  
